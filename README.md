@@ -3,14 +3,6 @@
 - 🌱 I’m currently Learning Python / Frontend Devlopment
 - 💞️ I’m looking to collaborate on Hackathons
 
-<div align="left">
-  <a "href="https://www.linkedin.com/in/krish-savaliya-10044a301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  href="https://discord.com/users/krishpatel5522#6412"/>
-</div>
-<div >
-
   <!-- GitHub Stats -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
