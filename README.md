@@ -3,6 +3,8 @@
 - 🌱 I’m currently Learning Python / Frontend Devlopment
 - 💞️ I’m looking to collaborate on Hackathons
 
+<a href="https://www.linkedin.com/in/krish-savaliya-10044a301"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+
   <!-- GitHub Stats -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
