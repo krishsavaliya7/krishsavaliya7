@@ -8,7 +8,7 @@
   <!-- GitHub Stats -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=krishsavaliya7&theme=dark&border_radius=0)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krishsavaliya7&theme=dark" alt="GitHub Streak" /></a>
 
   <!-- WakaTime Stats -->
   <div>
@@ -37,8 +37,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
