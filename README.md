@@ -8,7 +8,7 @@
   <!-- GitHub Stats -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show=reviews,discussions_started,prs_merged,&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krishsavaliya7&theme=dark" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com/krishsavaliya7=DenverCoder1)](https://git.io/streak-stats)
 
 
 <!--START_SECTION:waka-->
