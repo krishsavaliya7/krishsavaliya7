@@ -3,22 +3,22 @@
 - 🌱 I’m currently Learning Python / Frontend Devlopment
 - 💞️ I’m looking to collaborate on Hackathons
 
-<a href="https://www.linkedin.com/in/krish-savaliya-10044a301">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-</a>
+<a href="https://www.linkedin.com/in/krish-savaliya-10044a301"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishsavaliya7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishsavaliya7&show_icons=true&locale=en&layout=compact" alt="krishsavaliya7" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show_icons=true&locale=en" alt="krishsavaliya7" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishsavaliya7" alt="GitHub Streak Stats" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishsavaliya7&" alt="krishsavaliya7" /></p>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishsavaliya7&layout=compact" alt="WakaTime Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&layout=compact" alt="Top Languages" />
+    </a>
+  </div>
+</div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
