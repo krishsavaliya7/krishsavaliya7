@@ -5,11 +5,10 @@
 
 <a href="https://www.linkedin.com/in/krish-savaliya-10044a301"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishsavaliya7&show_icons=true&locale=en&layout=compact" alt="krishsavaliya7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show_icons=true&locale=en" alt="krishsavaliya7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishsavaliya7&" alt="krishsavaliya7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishsavaliya7&" alt=""/></p>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishsavaliya7&layout=compact" alt="WakaTime Stats" />
