@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/krish-savaliya-10044a301"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
 
   <!-- GitHub Stats -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishsavaliya7&" alt="krishsavaliya7" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?krishsavaliya7&" alt="krishsavaliya7" /></p>
 
 
 <!--START_SECTION:waka-->
