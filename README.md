@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Hackathons
 
 <a href="https://www.linkedin.com/in/krish-savaliya-10044a301"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+<a href="https://wakatime.com/@3bd93a6d-1c4b-4bd5-9c64-0538da149cdd"><img src="https://wakatime.com/badge/user/3bd93a6d-1c4b-4bd5-9c64-0538da149cdd.svg" alt="Total time coded since Jan 5 2025" /></a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show_icons=true&locale=en" alt="krishsavaliya7" /></p>
