@@ -35,12 +35,3 @@
 ---
 
 <br/>
-
-## 📊 GitHub Stats (Placed at the Very Bottom)
-
-### Default Stats Card
-![Krish GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsavaliya7&theme=default&show_icons=true)
-
-### Awesome Themed Stats Card
-![Krish GitHub Awesome Theme](https://github-readme-stats.vercel.app/api?username=krishsavaliya7&show_icons=true&theme=awesome)
-
