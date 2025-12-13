@@ -13,6 +13,10 @@
 
 ---
 
+![](https://github-readme-stats.vercel .app/api?username=krishsavaliya7& theme=tokyonight&hide_border=true& include_all_commits=false&count_private =false)
+
+![](https://github-readme-streak-stats .herokuapp.com/?user=krishsavaliya7 &theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel .app/api/top-langs/?username=Abhay -Vachhani&theme=tokyonight&hide _border=true&include_all_commits=false &count_private=false&layout=compact)
+
 ### WakaTime Stats · Top Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
