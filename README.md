@@ -19,7 +19,7 @@
 
 ---
 
-### WakaTime Stats · Top Languages
+### Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
