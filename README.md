@@ -15,8 +15,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsavaliya7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishsavaliya7&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
