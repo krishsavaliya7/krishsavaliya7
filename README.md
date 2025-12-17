@@ -15,9 +15,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsavaliya7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
   <!-- WakaTime Stats -->
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,6 +29,8 @@
     </a>
   </div>
 </div>
+
+---
 
 ### Languages & Tools
 
