@@ -18,6 +18,20 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+  <!-- WakaTime Stats -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <!--[![Harlok's WakaTime stats]()](https://github.com/anuraghazra/github-readme-stats)-->
+      <img
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=krishsavaliya7&bg_color=0D1117&text_color=ffffff&layout=compact"
+        alt="WakaTime Stats"
+      />
+    </a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&bg_color=0D1117&text_color=ffffff&layout=compact" alt="Top Languages" />
+    </a>
+  </div>
+</div>
 
 ### Languages & Tools
 
