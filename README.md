@@ -1,9 +1,9 @@
+<img align="center" alt="nothing" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+
 - 👋 Hi, I’m @krishsavaliya
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Learning Python / Frontend Development
+- 🌱 I’m currently Learning DSA And Vibe-Coding
 - 💞️ I’m looking to collaborate on Hackathons
-
-<img align="right" alt="nothing" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 
 <a href="https://www.linkedin.com/in/krish-savaliya-10044a301">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
