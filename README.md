@@ -1,37 +1,60 @@
-<img align="center" alt="nothing" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+<img align="center" alt="coding-gif" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 
-- 👋 Hi, I’m @krishsavaliya
-- 👀 I’m interested in Programming
-- 🌱 I’m currently Learning DSA And Vibe-Coding
-- 💞️ I’m looking to collaborate on Hackathons
+---
+
+### 👋 Hi, I’m @krishsavaliya
+- 👀 I’m interested in Programming  
+- 🌱 I’m currently learning **DSA & Vibe-Coding**  
+- 💞️ I’m looking to collaborate on **Hackathons**
+
+---
 
 <a href="https://www.linkedin.com/in/krish-savaliya-10044a301">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
 
+<a href="https://wakatime.com/@3bd93a6d-1c4b-4bd5-9c64-0538da149cdd">
+  <img src="https://wakatime.com/badge/user/3bd93a6d-1c4b-4bd5-9c64-0538da149cdd.svg" alt="WakaTime badge"/>
+</a>
+
+---
+
+### 📊 GitHub & WakaTime Stats
+
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <!--[![Harlok's WakaTime stats]()](https://github.com/anuraghazra/github-readme-stats)-->
-      <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=krishsavaliya7&bg_color=0D1117&text_color=ffffff&layout=compact"
-        alt="WakaTime Stats"
-      />
-    </a><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&bg_color=0D1117&text_color=ffffff&layout=compact" alt="Top Languages" />
-    </a>
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=krishsavaliya7&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </a>
+</div>
+
+<br/>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=3bd93a6d-1c4b-4bd5-9c64-0538da149cdd&range=last_7_days&layout=compact&bg_color=0D1117&text_color=ffffff"
+      alt="WakaTime Stats"
+    />
+  </a>
+</div>
+
+<br/>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&layout=compact&bg_color=0D1117&text_color=ffffff"
+      alt="Top Languages"
+    />
+  </a>
 </div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsavaliya7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-  <!-- WakaTime Stats -->
- 
----
-
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![XML](https://img.shields.io/badge/-XML-005FAD?style=flat-square&logo=xml&logoColor=ffffff)
@@ -49,5 +72,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ffffff)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=ffffff)
-
-<br/>
