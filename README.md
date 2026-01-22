@@ -9,9 +9,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
 
-<a href="https://wakatime.com/@3bd93a6d-1c4b-4bd5-9c64-0538da149cdd">
-  <img src="https://wakatime.com/badge/user/3bd93a6d-1c4b-4bd5-9c64-0538da149cdd.svg" alt="Total time coded since Jan 5 2025"/>
-</a>
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <!--[![Harlok's WakaTime stats]()](https://github.com/anuraghazra/github-readme-stats)-->
+      <img
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=krishsavaliya7&bg_color=0D1117&text_color=ffffff&layout=compact"
+        alt="WakaTime Stats"
+      />
+    </a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsavaliya7&bg_color=0D1117&text_color=ffffff&layout=compact" alt="Top Languages" />
+    </a>
+  </div>
+</div>
 
 ---
 
